@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "지킬에 오신것을 환영합니다!"
 date:   2014-08-29 14:34:25
 categories: jekyll update
 tags: featured

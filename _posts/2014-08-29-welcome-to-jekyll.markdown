@@ -6,7 +6,7 @@ categories: jekyll update
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
-첫 글.
+첫 글.ㄴㅁㅇㅁㄴㅇㅁㄴㅇ
 
 <footer class="site-footer">
  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
